@@ -10,6 +10,9 @@
             "name": "Vincent Blavet"
         }
     ],
+    "replace": {
+        "pclzip/pclzip": "^2.8"
+    },
     "autoload": {
         "classmap": ["pclzip.lib.php"]
     }
