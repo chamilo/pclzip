@@ -1,16 +1,14 @@
 // --------------------------------------------------------------------------------
-// PclZip 2.8.2 - readme.txt
+// PclZip 2.8.3 - readme.txt
 // --------------------------------------------------------------------------------
 // License GNU/LGPL - August 2009
 // Vincent Blavet - vincent@phpconcept.net
 // http://www.phpconcept.net
 // --------------------------------------------------------------------------------
-// $Id: readme.txt,v 1.60 2009/09/30 20:35:21 vblavet Exp $
-// --------------------------------------------------------------------------------
 
 
 
-0 - Sommaire
+0 - Summary
 ============
     1 - Introduction
     2 - What's new
@@ -32,6 +30,9 @@
 2 - What's new
 ==============
 
+  Version 2.8.3 :
+    - Fix compatibility with PHP v7.1
+    
   Version 2.8.2 :
     - PCLZIP_CB_PRE_EXTRACT and PCLZIP_CB_POST_EXTRACT are now supported with
       extraction as a string (PCLZIP_OPT_EXTRACT_AS_STRING). The string
