@@ -1,9 +1,9 @@
 {
-    "name": "pclzip/pclzip",
+    "name": "chamilo/pclzip",
     "type": "library",
     "description": "A PHP library that offers compression and extraction functions for Zip formatted archives",
     "keywords": ["php", "zip"],
-    "homepage": "http://www.phpconcept.net/pclzip",
+    "homepage": "https://github.com/chamilo/pclzip",
     "license": ["LGPL-2.1"],
     "authors": [
         {
@@ -14,3 +14,4 @@
         "classmap": ["pclzip.lib.php"]
     }
 }
+
