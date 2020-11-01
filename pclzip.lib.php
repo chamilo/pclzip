@@ -1,6 +1,6 @@
 <?php
 // --------------------------------------------------------------------------------
-// PhpConcept Library - Zip Module 2.8.2
+// PhpConcept Library - Zip Module 2.8.4
 // --------------------------------------------------------------------------------
 // License GNU/LGPL - Vincent Blavet - August 2009
 // http://www.phpconcept.net
